@@ -1,7 +1,11 @@
 # Brief
 
 
-https://user-images.githubusercontent.com/61438505/144822619-3fb9a4ad-4c81-4e0e-9203-a5ac881cbb8b.mp4
+
+
+https://user-images.githubusercontent.com/61438505/144822760-7d7c7114-36a5-456b-b406-684dbfd816de.mp4
+
+
 
 
 In this project, we're creating an eCommerce component.
