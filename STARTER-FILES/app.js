@@ -57,7 +57,7 @@ const addToCart = (item) => {
     cart();
     menu();
     totals();
-    console.log(cartItems);
+
 }
 
 const increaseCount = (item) => {
